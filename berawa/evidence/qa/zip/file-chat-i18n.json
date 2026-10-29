@@ -1,0 +1,450 @@
+{
+ "url": "file:///tmp/zip-gran-hotel-corona-sol-salamanca/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 199 habitaciones de 6 tipos: doble de 2 camas (24 m², hasta 2 personas), doble matrimonial con cama de 180 cm, triple (hasta 3 persona"
+    },
+    {
+     "q": "¿Qué equipamiento tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen aire acondicionado, TV de pantalla plana, wifi gratuita, calefacción y caja fuerte. El baño privado incluye secador "
+    },
+    {
+     "q": "¿Qué servicios tiene el hotel?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tiene recepción 24 horas, wifi gratuita, consigna de equipajes, accesos adaptados para personas con movilidad reducida, aire acondicionado y"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El hotel dispone de parking cubierto privado. Su web no indica la tarifa; consúltala con el hotel."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Tiene desayuno buffet, bar-cafetería y un restaurante especializado en cocina tradicional, con carta de productos locales y platos de tempor"
+    },
+    {
+     "q": "¿Tienen salones para eventos?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Tiene un gran salón totalmente equipado para bodas, bautizos, comuniones, presentaciones comerciales o conferencias, y una terraza con vista"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en Victor García de la Concha s/n, 37007 Salamanca, en el centro histórico: a 5 minutos a pie de la Plaza Mayor (800 metros). La estaci"
+    },
+    {
+     "q": "¿Qué hay para visitar cerca?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "A 1 km de la fachada plateresca de la Universidad y la Casa de las Conchas, y a poca distancia a pie de La Clerecía (1 km), el Convento de l"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web indica «el mejor precio online», «ofertas y tarifas especiales» y «sin intermediarios». Para reservar con esta demo, contacta con el "
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Teléfono 923 28 16 16; correo recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que la web es propiedad de COPITASA OESTE S.L."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su web indica «el mejor precio online», «ofertas y tarifas especiales» y «sin intermediarios». Para reservar con esta demo, contacta con el "
+    },
+    {
+     "q": "¿Tienen suites?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    }
+   ],
+   "chips": [
+    "¿Cuántas habitaciones tiene?",
+    "¿Hay parking?",
+    "¿Dónde está?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "loc_p",
+    "send",
+    "room1_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 199 habitacions de 6 tipus: doble de 2 llits (24 m², fins a 2 persones), doble matrimonial amb llit de 180 cm, triple (fins a 3 persones)"
+    },
+    {
+     "q": "Quin equipament tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen aire condicionat, TV de pantalla plana, wifi gratuïta, calefacció i caixa forta. El bany privat inclou assecador i art"
+    },
+    {
+     "q": "Quins serveis té l'hotel?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Té recepció 24 hores, wifi gratuïta, consigna d'equipatges, accessos adaptats per a persones amb mobilitat reduïda, aire condicionat i pàrqu"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hotel disposa de pàrquing cobert privat. La seva web no indica la tarifa; consulta-la amb l'hotel."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Té esmorzar bufet, bar-cafeteria i un restaurant especialitzat en cuina tradicional, amb carta de productes locals i plats de temporada. Tam"
+    },
+    {
+     "q": "Teniu salons per a esdeveniments?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Té un gran saló totalment equipat per a noces, bateigs, comunions, presentacions comercials o conferències, i una terrassa amb vistes al nuc"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És a Victor García de la Concha s/n, 37007 Salamanca, al centre històric: a 5 minuts a peu de la Plaza Mayor (800 metres). L'estació de tren"
+    },
+    {
+     "q": "Què hi ha per visitar a prop?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "A 1 km de la façana plateresca de la Universitat i la Casa de las Conchas, i a poca distància a peu de La Clerecía (1 km), el Convento de la"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web indica «el millor preu en línia», «ofertes i tarifes especials» i «sense intermediaris». Per reservar amb aquesta demo, contacta"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Telèfon 923 28 16 16; correu recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que la web és propietat de COPITASA OESTE S.L."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La seva web indica «el millor preu en línia», «ofertes i tarifes especials» i «sense intermediaris». Per reservar amb aquesta demo, contacta"
+    },
+    {
+     "q": "Teniu suites?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    }
+   ],
+   "chips": [
+    "Quantes habitacions té?",
+    "Hi ha pàrquing?",
+    "On és?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "loc_p"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 199 rooms of 6 types: twin with 2 beds (24 m², up to 2 guests), double with a 180 cm bed, triple (up to 3 guests), triple for 2 adult"
+    },
+    {
+     "q": "What equipment do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have air conditioning, a flat-screen TV, free wifi, heating and a safe. The private bathroom includes a hairdryer and toiletries."
+    },
+    {
+     "q": "What services does the hotel have?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It has a 24-hour reception, free wifi, luggage storage, adapted access for people with reduced mobility, air conditioning and private covere"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The hotel has private covered parking. Its website does not state the rate; ask the hotel."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "It has a buffet breakfast, a bar-café and a restaurant specialising in traditional cuisine, with a menu of local products and seasonal dishe"
+    },
+    {
+     "q": "Do you have event rooms?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It has a large, fully equipped hall for weddings, christenings, communions, business presentations or conferences, and a terrace with views "
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Victor García de la Concha s/n, 37007 Salamanca, in the historic centre: a 5-minute walk from the Plaza Mayor (800 metres). The tra"
+    },
+    {
+     "q": "What is there to visit nearby?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "1 km from the Plateresque façade of the University and the Casa de las Conchas, and a short walk from La Clerecía (1 km), the Convento de la"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Its website says «the best price online», «offers and special rates» and «no intermediaries». To book through this demo, contact the hotel b"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Phone 923 28 16 16; email recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Its legal notice says the website is owned by COPITASA OESTE S.L."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Its website says «the best price online», «offers and special rates» and «no intermediaries». To book through this demo, contact the hotel b"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    }
+   ],
+   "chips": [
+    "How many rooms does it have?",
+    "Is there parking?",
+    "Where is it?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 199 chambres de 6 types : double à 2 lits (24 m², jusqu'à 2 personnes), double avec lit de 180 cm, triple (jusqu'à 3 personnes), t"
+    },
+    {
+     "q": "Quel équipement ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent de la climatisation, d'une TV à écran plat, du wifi gratuit, du chauffage et d'un coffre-fort. La salle de bain privé"
+    },
+    {
+     "q": "Quels services propose l'hôtel ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il propose une réception ouverte 24 heures, le wifi gratuit, une consigne à bagages, des accès adaptés aux personnes à mobilité réduite, la "
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hôtel dispose d'un parking couvert privé. Son site n'indique pas le tarif ; renseignez-vous auprès de l'hôtel."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il propose un petit-déjeuner buffet, un bar-cafétéria et un restaurant spécialisé en cuisine traditionnelle, avec une carte de produits loca"
+    },
+    {
+     "q": "Avez-vous des salons pour événements ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il dispose d'un grand salon entièrement équipé pour mariages, baptêmes, communions, présentations commerciales ou conférences, et d'une terr"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Victor García de la Concha s/n, 37007 Salamanque, dans le centre historique : à 5 minutes à pied de la Plaza Mayor (800 mètres)"
+    },
+    {
+     "q": "Que visiter à proximité ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "À 1 km de la façade plateresque de l'Université et de la Casa de las Conchas, et à courte distance à pied de La Clerecía (1 km), du Convento"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Son site indique «le meilleur prix en ligne», «offres et tarifs spéciaux» et «pas d'intermédiaires». Pour réserver via cette démo, contactez"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Téléphone 923 28 16 16 ; e-mail recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sa mention légale indique que le site appartient à COPITASA OESTE S.L."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Son site indique «le meilleur prix en ligne», «offres et tarifs spéciaux» et «pas d'intermédiaires». Pour réserver via cette démo, contactez"
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 28 16 16 · recepcion@gran-hotelcoronasol.es."
+    }
+   ],
+   "chips": [
+    "Combien de chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Où est-il ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
