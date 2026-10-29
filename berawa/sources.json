@@ -1,0 +1,52 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.gran-hotelcoronasol.es/",
+ "read_at": "2026-10-29T05:53:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.gran-hotelcoronasol.es/",
+   "sha256": "bedb9b73c19e9a22d1fc9bc0458da407bb8eb987c443208d65ced207e711f365",
+   "chars": 2970
+  },
+  {
+   "url": "https://www.gran-hotelcoronasol.es/aviso-legal/",
+   "sha256": "77bb2dfa8cb4d5cb33cec69d790926962dc09cc3f8ff0b9d0648cf29223cbb14",
+   "chars": 5808
+  },
+  {
+   "url": "https://www.gran-hotelcoronasol.es/bodas-eventos/",
+   "sha256": "df7a8a727e0ee01a469a6e6a10e778980e3985d90c1f4f427cc4d6e2abbfc996",
+   "chars": 2191
+  },
+  {
+   "url": "https://www.gran-hotelcoronasol.es/habitaciones/",
+   "sha256": "24c8fc42a23c8cb872d42ed00073df832e35ee3728d3b567b5e59aa9b067b093",
+   "chars": 3169
+  },
+  {
+   "url": "https://www.gran-hotelcoronasol.es/restaurante/",
+   "sha256": "10256bf8027b8602d2c7bc96c2ec23bbf2742bf36bc5939470905c135b3de24f",
+   "chars": 1659
+  },
+  {
+   "url": "https://www.gran-hotelcoronasol.es/servicios/",
+   "sha256": "b67176f47b9c426d06363a939abecfbc62351bed3269398767b95de71c45d233",
+   "chars": 2554
+  },
+  {
+   "url": "https://www.gran-hotelcoronasol.es/ubicacion/",
+   "sha256": "810b3c5b0487f75b540d05fdda097d6496907ec8cba906e90906dbe4195f8e78",
+   "chars": 2788
+  }
+ ],
+ "other_pages_read": [
+  "https://www.gran-hotelcoronasol.es",
+  "https://www.gran-hotelcoronasol.es/en/",
+  "https://www.gran-hotelcoronasol.es/en/rooms/",
+  "https://www.gran-hotelcoronasol.es/fr/",
+  "https://www.gran-hotelcoronasol.es/galeria/",
+  "https://www.gran-hotelcoronasol.es/ofertas/",
+  "https://www.gran-hotelcoronasol.es/politica-de-cookies/"
+ ]
+}
